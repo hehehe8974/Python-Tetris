@@ -152,7 +152,7 @@ def pgHelp():
     tabout2 = Text((210, 210), "Move : Right/Down/Left", 25, Color.blue)
     tabout3 = Text((210, 280), "Rotate : Up", 25, Color.blue)
     tabout4 = Text((210, 350), "Place : Space", 25, Color.blue)
-    tabout5 = Text((210, 420), "Hold : Hold", 25, Color.blue)
+    tabout5 = Text((210, 420), "Hold : Shift", 25, Color.blue)
     #Multiplayer
     tabout1 = Text((560, 120), "Multi Player", 30, Color.blue)
     tabout1 = Text((560, 160), "1P", 30, Color.blue)
