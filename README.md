@@ -34,4 +34,6 @@ More information can be found in the help section of the game. These are the key
 * Up arrow -> rotate block
 * K -> place block
 * L -> hold block
-## 
+## In-game screenshots
+![스크린샷 2024-10-14 211803](https://github.com/user-attachments/assets/b992d343-d1af-4cdb-846f-2685ecf8d497)
+![스크린샷 2024-10-14 211828](https://github.com/user-attachments/assets/510441c9-f770-4492-a0e9-3c7393b7719f)
