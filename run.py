@@ -1,5 +1,7 @@
 import os
 
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+root = os.path.dirname(os.path.abspath(__file__))
+path = os.path.join(root, "assets")
+os.chdir(path)
 
 from main import *
