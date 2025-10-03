@@ -2,7 +2,7 @@
 Recreation of the game Tetris using Python by Taehyun Lee. I have always wanted to build a simple game on my own, and I thought that Tetris was a good start since it is one of the most popular game in the world and a very straightforward one. 
 I do not offer any licenses for this project.
 ## How it is made
-Pygame is used in this game to create controls and import assest easily. This game is made using a table of rows and columns. Each spaces contains information of the blocks and it displays the blocks based on that information on the screen by coloring them. 
+Pygame is used in this game to create controls and import assets easily. This game is made using a table of rows and columns. Each spaces contains information of the blocks and it displays the blocks based on that information on the screen by coloring them. 
 For example, the spaces would be colored black as a black spot, white as a destined spot, and other colors as existing blocks. 
 This game is heavily influenced by other Tetris-based games like tetr.io, and there are features that could be seen in those games such as combos, 7 bag, level, score, attacks (multiplayer) and more.
 ## Prerequisites
